@@ -46,7 +46,7 @@ Tools:       Git · GitHub · Docker · Postman · DigitalOcean · Linux
 | Event | Result |
 |-------|--------|
 | 🥇 NocNoc Hackathon 2024 | Finalist (Top 15) · **Innovative Idea Award** |
-| 🥈 CLIBS Blockathon 2024 | Finalist (Top 10) · **Honourable Mention Award** |
+| 🥈 CUBS Blockathon 2024 | Finalist (Top 10) · **Honourable Mention Award** |
 | 🥈 KGI Algo Trade KMITL 2024 | 2nd Runner Up |
 | 🥈 Engineering Innovation Pitch 2025 | Finalist (Top 10) · 2nd Runner Up |
 
